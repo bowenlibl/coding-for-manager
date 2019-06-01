@@ -1,2 +1,2 @@
-# week2-coding-class
+# week2-coding
 Created to practice in the coding class
